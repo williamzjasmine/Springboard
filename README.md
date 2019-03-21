@@ -1,3 +1,5 @@
-# Springboard
+# Springboard Projects
 
-A collection of all projects that I have completed required by Springboard's curriculum. 
+The list below gives a description of each file in this repository:
+
+ - json_exercise_William_Jasmine.ipynb: JSON Based Data Exercise (from Unit 5.2.4) 
