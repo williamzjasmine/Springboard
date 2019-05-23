@@ -11,3 +11,4 @@ The list below gives a description of each file in this repository:
  - sliderule_dsi_inferential_statistics_exercise_3: Completed Jupyter notebook for Inferential Statistics exercises #3 (8.3.3)
  - Mini_Project_Linear_Regression: Completed Jupyter notebook for Machine Learning Linear Regression exercises (10.1.5)
  - Mini_Project_Logistic_Regression: Completed Jupyter notebook for Machine Learning Logistic Regression exercises (10.1.6)
+ - Mini_Project_Clustering: Completed Jupyter notebook for Machine Learning Unsupervised Learning exercises (10.5.4)
