@@ -12,3 +12,4 @@ The list below gives a description of each file in this repository:
  - Mini_Project_Linear_Regression: Completed Jupyter notebook for Machine Learning Linear Regression exercises (10.1.5)
  - Mini_Project_Logistic_Regression: Completed Jupyter notebook for Machine Learning Logistic Regression exercises (10.1.6)
  - Mini_Project_Clustering: Completed Jupyter notebook for Machine Learning Unsupervised Learning exercises (10.5.4)
+ - Mini_Project_Naive_Bayes: Completed Jupyter Notebook for Maching Learning Supervised Leanring Exercises (10.3.3)
